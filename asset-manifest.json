@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/NFT-Minting-DAPP/static/css/main.e302f712.css",
-    "main.js": "/NFT-Minting-DAPP/static/js/main.0d798dd4.js",
+    "main.css": "/NFT-Minting-DAPP/static/css/main.d9985ba6.css",
+    "main.js": "/NFT-Minting-DAPP/static/js/main.bec95814.js",
     "static/js/787.b3d807b3.chunk.js": "/NFT-Minting-DAPP/static/js/787.b3d807b3.chunk.js",
     "static/media/myImage.png": "/NFT-Minting-DAPP/static/media/myImage.71c20f0e59c49e57fa0e.png",
     "index.html": "/NFT-Minting-DAPP/index.html",
-    "main.e302f712.css.map": "/NFT-Minting-DAPP/static/css/main.e302f712.css.map",
-    "main.0d798dd4.js.map": "/NFT-Minting-DAPP/static/js/main.0d798dd4.js.map",
+    "main.d9985ba6.css.map": "/NFT-Minting-DAPP/static/css/main.d9985ba6.css.map",
+    "main.bec95814.js.map": "/NFT-Minting-DAPP/static/js/main.bec95814.js.map",
     "787.b3d807b3.chunk.js.map": "/NFT-Minting-DAPP/static/js/787.b3d807b3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e302f712.css",
-    "static/js/main.0d798dd4.js"
+    "static/css/main.d9985ba6.css",
+    "static/js/main.bec95814.js"
   ]
 }
